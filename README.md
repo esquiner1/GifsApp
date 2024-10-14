@@ -1,3 +1,7 @@
+#Visualizacion de la aplicación
+
+Este proyocto se puede visualizar accediendo desde el actions 
+
 # Demoapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
